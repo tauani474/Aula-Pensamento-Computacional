@@ -1,0 +1,28 @@
+<h1>Você sabia que estes 10 animais estão ameaçados de extinção no Brasil?</h1>
+
+<img id ="imagem-01" src = "Fauna-Brasileira.jpg">
+
+<link rel="stylesheet" href ="style.css">
+
+<body bgcolor="red">
+
+
+<p>O Brasil é reconhecido mundialmente por possuir a maior biodiversidade do mundo
+graças a biomas ricos em espécies animais e vegetais como:</p>
+<p>Amazônia,</p>
+<p>Pantanal,</p>
+<p>Cerrado,</p>
+<p>Caatinga,</p>
+<p>campos dos Pampas</p>
+<p>Floresta tropical pluvial da Mata Atlântica.</p>
+<p>Além disso, o Brasil possui uma costa marinha de 3,5 milhões km² que inclui
+ecossistemas como recifes de corais, dunas, manguezais, lagoas, estuários e
+pântanos.</p>
+
+<h1><p>Brasil tem mais de 3 mil espécies de animais e plantas em risco de
+extinção</p></h1>
+<p>Esta abundante variedade de vida – que se traduz em mais de 20% do número total
+de espécies da Terra – coloca o Brasil ao posto de principal nação entre os 17 países
+megadiversos.</p>
+
+<img id ="imagem-02" src ="Fauna-Brasileira1.jpg">
